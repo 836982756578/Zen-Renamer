@@ -1,3 +1,31 @@
+# 🏷️ Zen Renamer - Smart Batch File Renamer
+
+**Developer:** [Serkan ŞENTÜRK](https://github.com/836982756578)  
+**Copyright:** © 2026 Serkan ŞENTÜRK. All Rights Reserved.  
+**License:** MIT  
+**Platform:** Windows 10 / 11 (64-bit & 32-bit Portable)  
+
+> Rename hundreds of files and folders in seconds with live preview, regex support, sequential numbering, and full undo functionality.
+
+---
+
+## 🇬🇧 English Documentation
+
+### ✨ Key Features
+* 🔍 **Live Preview:** See exactly what new filenames will look like before applying changes.
+* 🔢 **Numbering & Date Formatting:** Prefix, suffix, sequential counter, and creation date stamps.
+* 🔄 **Find & Replace:** Simple text or advanced regex string replacement.
+* ↩️ **Instant Undo:** Revert renamed files with a single click if you make a mistake.
+
+### 📥 Download & Usage
+1. Download the latest portable .exe from the [Releases](https://github.com/836982756578/Zen-Renamer/releases) section.
+2. Run directly — no installer or administrative privileges required.
+3. Enjoy an ultra-lightweight, native Windows experience!
+
+---
+
+## 🇹🇷 Türkçe Açıklama
+
 # ☯️ Zen Renamer
 
 **Taşınabilir, Ultra Hafif Akıllı Toplu Dosya Yeniden Adlandırıcı**  
